@@ -1,0 +1,43 @@
+body{
+    padding: 0px;
+    background-color: #edf2f7;
+}
+div{
+    display: inline-block;
+    background: rgba(255 , 255 , 255 , 0.5);
+    padding: 200px;
+    margin-left: 40%;
+    margin-top: 5%;
+    padding-top: 20px;
+    border-radius: 10px;
+    marg
+}
+button{
+    background-color: transparent;
+    
+    border-color: rgb(168, 80, 168);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 35%;
+    border: 2px solid #73378d;
+
+}
+h2{
+    padding:0px ;
+    text-align: center;
+
+}
+input{
+    padding:12px ;
+    width: 120px;
+    border-radius: 10px;
+    border: 1 px solid red;
+    margin-left: 30%;
+
+}
+select{
+    padding: 10px;
+    margintop: 10px;
+    display: inline-block;
+}
